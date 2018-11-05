@@ -149,4 +149,11 @@ Bob-->Alice: I am good thanks!
   [3]: http://adrai.github.io/flowchart.js/
   [4]: http://bramp.github.io/js-sequence-diagrams/
   [5]: https://dev.yinxiang.com/doc/articles/enml.php
+  
+  
+  | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
