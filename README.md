@@ -4,3 +4,4 @@
 $  git config --global --replace-all user.email "输入你的邮箱" 
 $  git config --global --replace-all user.name "输入你的用户名"
 '''
+# 笔记 
