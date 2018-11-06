@@ -6,3 +6,4 @@ $  git config --global --replace-all user.name "输入你的用户名"
 '''
 # 笔记   
 一系列项目模板生成工具https://github.com/audreyr/cookiecutter
+GitHub操作指南https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
