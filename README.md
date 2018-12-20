@@ -5,9 +5,15 @@ $  git config --global --replace-all user.email "输入你的邮箱"
 $  git config --global --replace-all user.name "输入你的用户名"
 '''
 # 笔记   
-一系列项目模板生成工具https://github.com/audreyr/cookiecutter  
-GitHub操作指南https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md  
-git冲突解决方法 官方文档 https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/  
+一系列项目模板生成工具  
+https://github.com/audreyr/cookiecutter  
+GitHub操作指南  
+https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md  
+git冲突解决方法 官方文档   
+https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/  
+virtualbox运行失败解决方法  
+1、https://www.cnblogs.com/xiaotao726/p/6506976.html  
+2、将软件设置成兼容模式运行
 
 # web通用测试用例
 ### 易用性
