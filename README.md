@@ -15,6 +15,9 @@ virtualbox运行失败解决方法
 1、https://www.cnblogs.com/xiaotao726/p/6506976.html  
 2、将软件设置成兼容模式运行
 
+scrapy安装报错  
+下载对应python版本的Twisted的whl文件安装，然后再安装scrapy。
+
 # web通用测试用例
 ### 易用性
 1、便于使用、理解、并能减少用户发生错误选择的可能性  
