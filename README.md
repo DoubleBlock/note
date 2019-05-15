@@ -16,7 +16,8 @@ virtualbox运行失败解决方法
 2、将软件设置成兼容模式运行
 
 scrapy安装报错  
-下载对应python版本的Twisted的whl文件安装，然后再安装scrapy。
+下载对应python版本的Twisted的whl文件安装，然后再安装scrapy。  
+下载地址：https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
 
 # web通用测试用例
 ### 易用性
