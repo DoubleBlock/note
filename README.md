@@ -24,7 +24,10 @@ scrapy安装报错
 
 ```
 pip install pypiwin32
-```
+```  
+
+网络爬虫的抓取策略  
+https://ask.hellobi.com/blog/bixtcexs/11983
 
 # web通用测试用例
 ### 易用性
