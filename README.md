@@ -27,7 +27,11 @@ pip install pypiwin32
 ```  
 
 网络爬虫的抓取策略  
-https://ask.hellobi.com/blog/bixtcexs/11983
+https://ask.hellobi.com/blog/bixtcexs/11983  
+
+爬虫利器Xpath
+学爬虫利器XPath,看这一篇就够了  
+https://zhuanlan.zhihu.com/p/29436838
 
 # web通用测试用例
 ### 易用性
