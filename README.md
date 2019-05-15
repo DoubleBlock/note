@@ -1,9 +1,9 @@
 # 记事本
 重新设置git bash的用户名和邮件地址
-'''
+```
 $  git config --global --replace-all user.email "输入你的邮箱"   
 $  git config --global --replace-all user.name "输入你的用户名"
-'''
+```
 # 笔记   
 一系列项目模板生成工具  
 https://github.com/audreyr/cookiecutter  
@@ -17,7 +17,14 @@ virtualbox运行失败解决方法
 
 scrapy安装报错  
 下载对应python版本的Twisted的whl文件安装，然后再安装scrapy。  
-下载地址：https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+下载地址：https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted  
+
+
+运行scrapy crawl quotes报错 提示no module named "win32api"  
+
+```
+pip install pypiwin32
+```
 
 # web通用测试用例
 ### 易用性
