@@ -31,7 +31,11 @@ https://ask.hellobi.com/blog/bixtcexs/11983
 
 爬虫利器Xpath
 学爬虫利器XPath,看这一篇就够了  
-https://zhuanlan.zhihu.com/p/29436838
+https://zhuanlan.zhihu.com/p/29436838  
+
+VM Workstation不支持Macos  
+下载安装插件Unlocker  
+https://github.com/JIMclobe/Vmware-Workstation/blob/master/v3.0.zip
 
 # web通用测试用例
 ### 易用性
