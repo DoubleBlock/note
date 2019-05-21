@@ -35,7 +35,34 @@ https://zhuanlan.zhihu.com/p/29436838
 
 VM Workstation不支持Macos  
 下载安装插件Unlocker  
-https://github.com/JIMclobe/Vmware-Workstation/blob/master/v3.0.zip
+https://github.com/JIMclobe/Vmware-Workstation/blob/master/v3.0.zip  
+
+React从入门到精通  
+[React从入门到精通系列之(1)安装React](https://segmentfault.com/a/1190000007790578)  
+[React从入门到精通系列之(2)JSX的介绍](https://segmentfault.com/a/1190000007790589)  
+[React从入门到精通系列之(3)渲染元素](https://segmentfault.com/a/1190000007790604)  
+[React从入门到精通系列之(4)组件化和Props传递](https://segmentfault.com/a/1190000007790620)  
+[React从入门到精通系列之(5)state管理和生命周期钩子](https://segmentfault.com/a/1190000007790642)  
+[React从入门到精通系列之(6)事件处理](https://segmentfault.com/a/1190000007790660)  
+[React从入门到精通系列之(7)根据条件选择性渲染元素](https://segmentfault.com/a/1190000007797584)  
+[React从入门到精通系列之(8)Lists和Keys的处理](https://segmentfault.com/a/1190000007798534)  
+[React从入门到精通系列之(9)表单处理](https://segmentfault.com/a/1190000007799626)  
+[React从入门到精通系列之(10)提升state](https://segmentfault.com/a/1190000007801439)  
+[React从入门到精通系列之(11)组合VS继承](https://segmentfault.com/a/1190000007802061)  
+[React从入门到精通系列之(12)深入理解JSX](https://segmentfault.com/a/1190000007814334)  
+[React从入门到精通系列之(13)使用PropTypes进行类型检测](https://segmentfault.com/a/1190000007814801)  
+[React从入门到精通系列之(14)refs和DOM元素](https://segmentfault.com/a/1190000007815434)  
+[React从入门到精通系列之(15)不可控组件](https://segmentfault.com/a/1190000007815767)  
+[React从入门到精通系列之(16)性能优化](https://segmentfault.com/a/1190000007818047)  
+[React从入门到精通系列之(17)不使用ES6编写React应用](https://segmentfault.com/a/1190000007824711)  
+[React从入门到精通系列之(18)不使用JSX编写React应用](https://segmentfault.com/a/1190000007824857)  
+[React从入门到精通系列之(19)彻底理解React如何重新处理DOM(Diffing算法)](https://segmentfault.com/a/1190000007826792)  
+[React从入门到精通系列之(20)用上下文管理应用](https://segmentfault.com/a/1190000007828498)  
+[React从入门到精通系列之(21)React顶级API](https://segmentfault.com/a/1190000007828637)  
+[React从入门到精通系列之(22)React.Component用法](https://segmentfault.com/a/1190000007828783)  
+[React从入门到精通系列之(23)ReactDOM的用法](https://segmentfault.com/a/1190000007828811)  
+[React从入门到精通系列之(24)DOM Elements](https://segmentfault.com/a/1190000007828836)  
+
 
 # web通用测试用例
 ### 易用性
