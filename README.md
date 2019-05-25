@@ -64,7 +64,10 @@ React从入门到精通
 [React从入门到精通系列之(24)DOM Elements](https://segmentfault.com/a/1190000007828836)  
 
 最全前端速查手册  
-https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
+https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a  
+
+人人都是API设计师：我对RESTful API、GraphQL、RPC API的思考
+https://www.infoq.cn/article/ZgAAVBZZaoo4I0-pkgV8
 
 # web通用测试用例
 ### 易用性
