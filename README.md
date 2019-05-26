@@ -70,7 +70,10 @@ https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
 https://www.infoq.cn/article/ZgAAVBZZaoo4I0-pkgV8  
 
 前端精选好文  
-https://www.infoq.cn/article/omWDKQXA3I*0fcPqJFTD
+https://www.infoq.cn/article/omWDKQXA3I*0fcPqJFTD  
+
+React参考手册  
+https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795
 
 # web通用测试用例
 ### 易用性
