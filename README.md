@@ -8,14 +8,17 @@
 ```
 git config --global --replace-all user.email "输入你的邮箱"   
 git config --global --replace-all user.name "输入你的用户名"
-```  
+```
 
 一系列项目模板生成工具  
 <https://github.com/audreyr/cookiecutter>  
+
 GitHub操作指南  
 <https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md>  
-git冲突解决方法 官方文档   
+
+git冲突解决方法 官方文档
 <https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/>  
+  
 virtualbox运行失败解决方法  
 1、<https://www.cnblogs.com/xiaotao726/p/6506976.html>  
 2、将软件设置成兼容模式运行
@@ -23,7 +26,6 @@ virtualbox运行失败解决方法
 scrapy安装报错  
 下载对应python版本的Twisted的whl文件安装，然后再安装scrapy。  
 下载地址：<https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted>  
-
 
 运行scrapy crawl quotes报错 提示no module named "win32api"  
 
@@ -122,7 +124,8 @@ React参考手册
 
 1、用户能自由的作出选择，且选择都是可逆的  
 2、用户方便的使用即互动多重性，不局限于单一的工具(包括鼠标、键盘或软键盘)  
-3、当页面数据暴涨，出现较长列表时，是否有滚动条保证页面显示完整的信息。   
+3、当页面数据暴涨，出现较长列表时，是否有滚动条保证页面显示完整的信息。
+
 ### 人性化  
 
 1、用户可依据自己的习惯定制界面，并能保存设置  
@@ -280,7 +283,6 @@ React参考手册
 6、查询条件中输入%，系统能否查询出相关记录  
 7、系统是否支持回车查询  
 8、系统是否设置了重置查询的功能
-
 
 
 ## 点滴积累  
