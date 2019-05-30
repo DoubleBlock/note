@@ -86,7 +86,9 @@ React参考手册
 <https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795>  
 
 移动端适配指南！聊聊安卓折叠屏给交互设计和开发带来的变化  
-<https://mp.weixin.qq.com/s/50ObaW2L2Mcb98hMBDMedg>
+<https://mp.weixin.qq.com/s/50ObaW2L2Mcb98hMBDMedg>  
+
+http://blog.dimpurr.com/yiban-report-17/
 
 ## web通用测试用例  
 
