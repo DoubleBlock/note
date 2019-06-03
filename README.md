@@ -90,7 +90,7 @@ React参考手册
 
 http://blog.dimpurr.com/yiban-report-17/  
 
-面试必备！webpack 中那些最易混淆的 5 个知识点
+面试必备！webpack 中那些最易混淆的 5 个知识点  
 <https://juejin.im/post/5cede821f265da1bbd4b5630?utm_source=gold_browser_extension>
 
 ## web通用测试用例  
@@ -297,4 +297,8 @@ http://blog.dimpurr.com/yiban-report-17/
 
 ### 单词小记
 
-extract 提取
+extract 提取  
+
+### 知识积累  
+
+弧度：弧长与半径之比。弧长等于半径的弧所对应的的圆心角为1弧度.
