@@ -94,7 +94,10 @@ http://blog.dimpurr.com/yiban-report-17/
 <https://juejin.im/post/5cede821f265da1bbd4b5630?utm_source=gold_browser_extension>  
 
 前端练级攻略  
-<https://juejin.im/post/5cd4cbe2518825408b33e9c5>
+<https://juejin.im/post/5cd4cbe2518825408b33e9c5>  
+
+meta最全使用手册  
+<https://www.cnblogs.com/futai/p/4998193.html>
 
 ## web通用测试用例  
 
