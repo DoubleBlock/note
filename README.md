@@ -97,7 +97,10 @@ http://blog.dimpurr.com/yiban-report-17/
 <https://juejin.im/post/5cd4cbe2518825408b33e9c5>  
 
 meta最全使用手册  
-<https://www.cnblogs.com/futai/p/4998193.html>
+<https://www.cnblogs.com/futai/p/4998193.html>  
+
+Web前端测试指南
+<https://www.jackpu.com/web-qian-duan-ce-shi-zhi-nan/>
 
 ## web通用测试用例  
 
