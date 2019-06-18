@@ -103,7 +103,10 @@ Web前端测试指南
 <https://www.jackpu.com/web-qian-duan-ce-shi-zhi-nan/>  
 
 简单的TODO  
-<https://www.cnblogs.com/-walker/p/9277078.html>
+<https://www.cnblogs.com/-walker/p/9277078.html>  
+
+webpack4 的30个步骤打造优化到极致的 react 开发环境，如约而至  
+<https://juejin.im/post/5cfe4b13f265da1bb13f26a8#heading-32>
 
 ## web通用测试用例  
 
